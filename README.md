@@ -2,7 +2,7 @@
 
 ## Documentos preliminares
 
-[Definición del Grupo para primera discusión - borrador 3](Definición del Grupo para primera discusión)
+[Definición del Grupo para primera discusión - borrador 3](https://drive.google.com/file/d/18ZGNGjE5mxUeNwLtraR36RmJyX74S4na/view?usp=drive_link)
 
 ## Configuración del grupo
 
