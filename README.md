@@ -1,4 +1,4 @@
-# Proyecto 'Mayores en Gracias'
+# Proyecto 'Mayores en Gracias' ~~BORRADOR 1~~
 
 ## Documentos preliminares y otras ideas
 
