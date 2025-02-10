@@ -10,11 +10,15 @@
 
 ## Configuración del grupo
 
-### 1-Cartel
+### 1-Cartel - APROBADO
 
-[Cartel con información básica](https://drive.google.com/file/d/1t9tu4tpxWidxWyTxdhozcc4FkopBtj1Q/view?usp=sharing)
+[Cartel con información básica V3](https://drive.google.com/file/d/1AWB8CnGz_ukNkgCTynzssa4jrZHTYVXF/view?usp=sharing)
 
-[Complemento a cartel con detalle](https://drive.google.com/file/d/1DW62lssLR4_vNUMcppjsWyiwIj2vtLiQ/view?usp=drive_link)
+
+
+[Complemento a cartel con detalle V3](https://drive.google.com/file/d/1mNI9EMJifOQx8wEu-FBLle-G3tIwH_Ni/view?usp=sharing)
+
+
 
 ### 2-Condiciones grupo inicial
 
