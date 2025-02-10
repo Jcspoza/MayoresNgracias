@@ -24,13 +24,13 @@
 
 - Se cerrara el grupo durante 3 sesiones para que se consolide
 
-- Se abrira en la 4ta sesion si hubiera plazas, par aun máximo de 3 personas
+- Se abrira en la 4ta sesion si hubiera plazas, para un máximo de 3 personas
 
 ### 3-Perfil mara quien consolidad nombres
 
-1. Distancia temporal a jubilación: paso hecho o por hacer : 
+1. Distancia temporal a jubilación: paso hecho o por hacer
 2. Haber tenido un trabajo remunerado con horario amplio (cambio más drástico) ser un trabajo con mucho estrés :
-3. Otros estresores relacionados: a criterio de persona encargado,
+3. Otros estresores relacionados: a criterio de persona encargada
 4. Excluir en la medida de lo posible enfermedad mental severa o exclusión social severa, porque el grupo no contara con recursos adecuados
 
 ### 4-Preparar 2 sesiones antes de lanzar 1ra reunion
